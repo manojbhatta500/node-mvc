@@ -1,0 +1,7 @@
+
+Date:1711367750242:Ip address ::1 :url /users :method GET
+Date:1711368238092:Ip address ::1 :url /user :method GET
+Date:1711368297405:Ip address ::1 :url /users :method POST
+Date:1711368308666:Ip address ::1 :url /user :method POST
+Date:1711368375845:Ip address ::1 :url /user :method POST
+Date:1711368400586:Ip address ::1 :url /user :method POST
